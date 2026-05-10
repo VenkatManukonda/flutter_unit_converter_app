@@ -1,34 +1,17 @@
-# Unit Converter App (Flutter)
+# Unit Converter App
 
-## Project Overview
-This is a simple Flutter-based mobile application that performs multiple unit conversions.  
-The app allows users to input a value, select a conversion type, and view the converted result instantly.
-
----
+A simple Flutter app for unit conversions.
 
 ## Features
-- Celsius to Fahrenheit conversion  
-- Fahrenheit to Celsius conversion  
-- Kilometers to Miles conversion  
-- Miles to Kilometers conversion  
+- Celsius ↔ Fahrenheit  
+- Km ↔ Miles  
+- Dropdown selection  
 - Instant result display  
 
----
+## How to run
+1. Open project folder  
+2. Run: flutter pub get  
+3. Run: flutter run  
 
-## Technologies Used
-- Flutter Framework  
-- Dart Programming Language  
-- Material Design Components  
-
----
-
-## Project Structure
-- `lib/main.dart` → Main application logic  
-- `android/` → Android platform files  
-- `ios/` → iOS platform files  
-- `pubspec.yaml` → Project dependencies  
-
----
-
-## 🚀 How to Run This Project
-1. Clone the repository:
+## Tech
+Flutter + Dart
